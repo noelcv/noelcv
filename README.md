@@ -1,7 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noel Vieira
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Noel Vieira
 ==================================================================================================================================================
-
-Full-Stack Software Engineer.
 -----------------------------
 
 I am a Full-Stack Software Engineer with 10 years of experience in communication consulting and project management for corporate, gov and non-gov clients.
