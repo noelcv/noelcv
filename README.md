@@ -8,8 +8,8 @@ I am a Full-Stack Software Engineer with 10 years of experience in communication
 * 🌍  I'm based in Luxembourg
 * ✉️  You can contact me at [noelguiavieira@gmail.com](mailto:noelguiavieira@gmail.com)
 * 🚀  I'm currently working on [HelperDuck](http://helperduck.com)
-* 🧠  I'm learning WebRTC and NextJS
-* 🤝  I'm open to collaborating on WebRTC, WebSockets
+* 🧠  I'm learning NextJS
+* 🤝  I'm open to collaborating on WebRTC, WebSockets and Full-Stack Applications.
 * ⚡  I am secretly a movie director... but don't tell anyone about it.
 
 <a href="https://www.twitter.com/noelguiavieira" target="_blank" rel="noreferrer"><img
