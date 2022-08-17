@@ -8,7 +8,7 @@ I am a Full-Stack Software Engineer with 10 years of experience in communication
 * 🌍  I'm based in Luxembourg
 * ✉️  You can contact me at [noelguiavieira@gmail.com](mailto:noelguiavieira@gmail.com)
 * 🚀  Lately, I have been working on [HelperDuck](http://helperduck.com) and [Mindfulness](http://mindfulness.vc)
-* 🧠  I'm currently learning NextJS
+* 🧠  I'm currently learning NextJS and GO.
 * 🤝  I'm open to collaborating on WebRTC, WebSockets and Full-Stack Applications.
 * ⚡  I am secretly a movie director... but don't tell anyone about it.
 
