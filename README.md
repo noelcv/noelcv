@@ -7,9 +7,9 @@ I am a Full-Stack Software Engineer with 10 years of experience in communication
 
 * 🌍  I'm based in Luxembourg
 * ✉️  You can contact me at [noelguiavieira@gmail.com](mailto:noelguiavieira@gmail.com)
-* 🚀  Lately, I have been working on [HelperDuck](http://helperduck.com) and [Mindfulness](http://mindfulness.vc)
-* 🧠  I'm currently learning <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> and 
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+* 🚀  Currently, I am working at [CentralNic](https://github.com/centralnic)
+* 🧠  These days, I have been learning <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> and
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
 * 🤝  I'm open to collaborating on WebRTC, WebSockets and Full-Stack Applications.
 * ⚡  I am secretly a movie director... but don't tell anyone about it.
 
