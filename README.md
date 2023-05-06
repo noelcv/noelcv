@@ -41,8 +41,8 @@ src="https://img.shields.io/twitter/follow/noelguiavieira?logo=twitter&style=for
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/svg/374002/prisma" width="36" height="36" alt="Prisma" /></a>
-<a href="https://www.redis.io/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Logo-redis.svg" width="36" height="36" alt="Redis" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374002/prisma.svg" width="36" height="36" alt="Prisma" /></a>
+<a href="https://www.redis.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" width="36" height="36" alt="Redis" /></a>
 
 
 #### Real-Time Communication
