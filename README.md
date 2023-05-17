@@ -24,6 +24,7 @@ src="https://img.shields.io/twitter/follow/noelguiavieira?logo=twitter&style=for
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" width="36" height="36" alt="Bash" /></a>
 
 #### Front-end
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
@@ -44,6 +45,15 @@ src="https://img.shields.io/twitter/follow/noelguiavieira?logo=twitter&style=for
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374002/prisma.svg" width="36" height="36" alt="Prisma" /></a>
 <a href="https://www.redis.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" width="36" height="36" alt="Redis" /></a>
 
+#### DevOps - CI/CD
+<a href="https://github.com/actions/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="36" height="36" alt="GitHub Actions"/></a>
+<a href="https://github.com/features/packages" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/site/packages/icon-integration.png" width="36" height="36" alt="GitHub Package Registry"/></a>
+<a href="https://npmjs.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="36" height="36" alt="NPM"/></a>
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="36" height="36" alt="ESLint"/></a> 
+<a href="https://prettier.io/" target="_blank" rel="noreferrer"><img src="https://prettier.io/icon.png" width="36" height="36" alt="Prettier" /></a>
+<a href="https://gruntjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Grunt.svg" width="36" height="36" alt="Grunt" /></a>
+<a href="https://typicode.github.io/husky/" target="_blank" style="width: 36px; height: 36px" rel="noreferrer">🐶 husky</a>
+<a href="https://github.com/okonet/lint-staged" target="_blank" style="width: 36px; height: 36px" rel="noreferrer">🚫💩 lint-staged</a>
 
 #### Real-Time Communication
 
