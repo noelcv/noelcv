@@ -47,6 +47,7 @@ src="https://img.shields.io/twitter/follow/noelguiavieira?logo=twitter&style=for
 
 #### DevOps - CI/CD
 <a href="https://github.com/actions/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="36" height="36" alt="GitHub Actions"/></a>
+<a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="PM2"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="36" height="36" alt="Git"/></a>
 <a href="https://github.com/features/packages" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/site/packages/icon-integration.png" width="36" height="36" alt="GitHub Package Registry"/></a>
 <a href="https://npmjs.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="36" height="36" alt="NPM"/></a>
