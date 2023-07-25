@@ -29,7 +29,8 @@ src="https://img.shields.io/twitter/follow/noelguiavieira?logo=twitter&style=for
 
 #### Front-end
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://ngrx.io/"><img width="36" height="36" src="https://cdn.cdnlogo.com/logos/n/66/ngrx.svg"></a> 
+<a href="https://ngrx.io/"><img width="36" height="36" src="https://cdn.cdnlogo.com/logos/n/66/ngrx.svg" alt="NgRx"></a>
+<a href="https://rxjs.dev/"><img width="36" height="36" src="https://user-images.githubusercontent.com/10064416/53419311-eb4eb080-39d9-11e9-9221-68b7a739f425.jpg" alt="RxJs"></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
