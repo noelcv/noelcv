@@ -28,7 +28,7 @@ src="https://img.shields.io/twitter/follow/noelguiavieira?logo=twitter&style=for
 <a href="https://yaml.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/1024px-Official_YAML_Logo.svg.png?20220206165621" width="36" height="36" alt="YAML" /></a>
 
 #### Front-end
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://angular.dev/assets/content/images/press-kit/angular_pride.png" width="36" height="36" alt="Angular" /></a>
 <a href="https://ngrx.io/"><img width="36" height="36" src="https://cdn.cdnlogo.com/logos/n/66/ngrx.svg" alt="NgRx"></a>
 <a href="https://rxjs.dev/"><img width="36" height="36" src="https://user-images.githubusercontent.com/10064416/53419311-eb4eb080-39d9-11e9-9221-68b7a739f425.jpg" alt="RxJs"></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
