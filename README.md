@@ -12,6 +12,7 @@ I am a Full-Stack Software Engineer with 10 years of experience in communication
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
 * 🤝  I'm open to collaborating on WebRTC, WebSockets and Full-Stack Applications.
 * ⚡  I am secretly a movie director... but don't tell anyone
+* <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="16" height="16" alt="Neovim" /></a> I use Neovim, btw
 
 <a href="https://www.twitter.com/noelguiavieira" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/noelguiavieira?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
