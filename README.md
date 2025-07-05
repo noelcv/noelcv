@@ -3,7 +3,7 @@ My name is Noel Vieira
 ==================================================================================================================================================
 -----------------------------
 
-I am a Full-Stack Software Engineer with 10 years of experience in communication consulting and project management for corporate, gov and non-gov clients.
+I am a Senior Full-Stack Software Engineer with 10 years of experience in communication consulting and project management for corporate, gov and non-gov clients.
 
 * 🌍  I'm based in Luxembourg
 * ✉️  You can contact me at [noelguiavieira@gmail.com](mailto:noelguiavieira@gmail.com)
